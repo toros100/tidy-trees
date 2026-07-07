@@ -1,0 +1,8 @@
+[package]
+name = "tidy-trees"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+svg_fmt = "0.4.5"
+anyhow ="1"
