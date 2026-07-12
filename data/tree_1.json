@@ -1,0 +1,12 @@
+{
+    "content": "hello",
+    "children": [
+        {
+            "content": "wow"
+        },
+        {
+            "content": "what a pretty tree"
+        }
+
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "content": "root",
+    "children": [
+        {
+            "content": "wow"
+        },
+        {
+            "content": "nice tree",
+            "children":
+            [
+                {"content":"", "children":[{"content":""}]}, {"content":"multi\nline\nnode"}]
+        }
+
+    ]
+}
